@@ -1,0 +1,132 @@
+/* Put Application specific CSS here. */
+div#wrap{
+}
+body.palm-default {
+background: url(../images/bg_holes.png) repeat-y;
+background-repeat: repeat;
+}
+div.winningnumbers{
+	text-align: left; 
+	font-size: 20px; 
+	padding: 3px 0 0 15px;
+	margin: 0 0 3px 0;
+}
+
+div#randNumGen{
+	text-align: center;
+	margin: 0;
+	color: #990000;
+	font-weight: bold;
+}
+div#randClick{
+	float: right;
+	margin: 5px 3px 0 0;
+	height: 50px;
+	width: 50px;
+	background: url('../images/calottery_die.png') no-repeat;
+}
+p.textual{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+p.disclaimer{
+	text-align: center;
+	color: gray;
+	font-style: italic;
+	font-size: 13px;
+	margin: 0;
+	padding: 0;
+}
+div.palm-group-title{
+	text-align: center;
+}
+table.labeled tr td.label{
+	color: #990000;
+}
+.palm-divider.labeled .left{
+	background: url(../images/bg_label.png) top right repeat-x;
+}
+.palm-divider.labeled .right{
+	background: url(../images/bg_label.png) top left repeat-x;
+}
+span.style_draw{
+	float: right;
+	background: url(../images/draw_pill.png) no-repeat;
+	color: #fff;
+	font-weight: bold;
+	height: 25px;
+	width: 90px;
+	padding: 2px 0 0 0;
+	text-align: center;
+}
+span.style_image{
+	float: right;
+	padding: 0;
+	margin: 0;
+}
+div.description{
+	font-size: 14px;
+	padding: 5px;
+}
+div.ocool-description{
+	font-size: 14px;
+	width: 78%;
+	float: left;
+	padding: 3px;
+	border: none 1px #660066;
+}
+div.ocool-preview{
+	width: 20%;
+	float: right;
+	border: none 1px #009900;
+}
+div.prevdays-item{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	color: #990000;
+	padding: 10px 0 0 0;
+}
+div.ocool-clickbanner{
+	background: #990000; 
+	color: #fff; 
+	font-weight: bold; 
+	font-size: 14px; 
+	font-style: italic; 
+	padding-right: 10px; 
+	text-align: right;
+}
+.othercoolwrap{
+	padding: 0 0 5px 0;
+}
+div.description b{
+	color: #990000;
+}
+div.ocool-description b{
+	color: #990000;
+}
+.my-scene-fade-bottom{
+	position: fixed;
+	bottom: 0;
+	z-index: 100000;
+	height: 54px;
+	width: 100%;
+	background: url(../images/my-scene-fade-bottom.png) bottom center repeat-x;
+}
+#theSpinner{
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	
+}
+.bottomMenuClass{
+
+}
+#placeHere{
+	float: left;
+	margin-left: 80px;
+}
+#aSpecialMsg{
+	padding: 20px;
+}

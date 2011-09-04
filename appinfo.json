@@ -1,0 +1,9 @@
+{
+	"id": "com.guylabs.calotto",
+	"version": "1.3.0",
+	"vendor": "Guy Labs",
+	"type": "web",
+	"main": "index.html",
+	"title": "CA Lottery Numbers",
+	"icon": "ico_calottery_64x64.png"
+}

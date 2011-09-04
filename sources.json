@@ -1,0 +1,25 @@
+[
+    {"source": "app/dao.js"},
+    {"source": "app/halp.js"},
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "first",
+        "source": "app/assistants/first-assistant.js"
+    },
+    {
+        "scenes": "individual",
+        "source": "app/assistants/individual-assistant.js"
+    },
+    {
+        "scenes": "othercool",
+        "source": "app/assistants/othercool-assistant.js"
+    },
+    {
+        "scenes": "prevdays",
+        "source": "app/assistants/prevdays-assistant.js"
+    },
+    {
+        "scenes": "prev-solo",
+        "source": "app/assistants/prev-solo-assistant.js"
+    }
+]
